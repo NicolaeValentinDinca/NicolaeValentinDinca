@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX/UI Design, Web Design and Web Development.
 - 🌱 I’m currently learning Web Developemnt
 - 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me http://villymane.com
+- 📫 How to reach me http://
 
 <!---
 NicolaeValentinDinca/NicolaeValentinDinca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
