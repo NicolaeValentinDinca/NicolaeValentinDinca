@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolaeValentinDinca
-- 👀 I’m interested in UX/UI Design, Web Design and Web Development.
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Web Design.
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me http://
 
