@@ -2,7 +2,7 @@
 - 👀 I’m interested in.
 - 🌱 I’m currently learning
 - 💞️ I’m looking to work on
-- 📫 How to reach me https://bio.link/oninvd
+- 📫 How to reach me 
 
 <!---
 NicolaeValentinDinca/NicolaeValentinDinca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
